@@ -19,7 +19,7 @@ Bachelor of Science in Medical Engineering | 2023 - 2026
 
 ## Experience
 
-### Founder & Technical Lead | Siren Tech AB
+### Founder & Technical Lead
 *Founded 2025*
 
 Built and led a technology startup focused on digital solutions. Designed and developed a mobile application platform and administrative system for task and incident management.
@@ -40,7 +40,7 @@ Swedish • English • Arabic
 
 ## Contact
 
-📧 taha@sirentech.se  
+📧 m.2ha@outlook.com  
 📱 0763-24 28 83  
 📍 Stockholm, Sweden
 
